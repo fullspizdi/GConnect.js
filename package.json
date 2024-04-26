@@ -1,0 +1,32 @@
+{
+  "name": "gconnect.js",
+  "version": "1.0.0",
+  "description": "Robust Integration Framework for Node.js and Google Services",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/gconnect.js.git"
+  },
+  "keywords": [
+    "google",
+    "api",
+    "node.js",
+    "integration",
+    "google services",
+    "authentication",
+    "oauth2"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/gconnect.js/issues"
+  },
+  "homepage": "https://github.com/yourusername/gconnect.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0"
+  }
+}
